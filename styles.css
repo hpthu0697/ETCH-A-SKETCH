@@ -48,6 +48,7 @@ button {
     height: 30px;
     border-radius: 10%;
     border-color: rgb(182, 27, 79);
+    color:rgb(182, 27, 79)
 }
 
 .sizeOption, .colorOptions {

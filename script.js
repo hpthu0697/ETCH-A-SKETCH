@@ -44,7 +44,7 @@ createGrid(10);
 // user grid size input
 
 function chooseGrid() {
-    gridTile = prompt("Choose grid size!");
+    gridTile = prompt("Choose a grid size up to 100!");
     if (gridTile === null || gridTile === "") {
         return;
     } else if (gridTile  > 100) {
